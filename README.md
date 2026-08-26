@@ -1,176 +1,102 @@
 <div align="center">
 
-# MANASA K S
-
-### `BUILDING IDEAS → INTO DIGITAL EXPERIENCES`
-
-Final-Year Computer Science & Engineering Student  
-Focused on Software Development, Web Applications & AI-Powered Solutions
+<img src="./assets/github-hero.png" width="100%" alt="Manasa K S — Developer" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasa-k-s-856b383ab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasavishwakarma032k4@gmail.com)
+# Manasa K S
+
+### Software Developer in Progress
+
+Building practical web applications, exploring AI-powered solutions, and turning ideas into digital experiences.
+
+<br>
+
+<a href="https://www.linkedin.com/in/manasa-k-s-856b383ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:manasavishwakarma032k4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
----
+<br>
 
-## 01 / START HERE
+## 👋 About Me
 
-> I approach development as a process of turning an idea into something real: understand the problem, build the solution, test it, improve it, and keep learning.
+I'm a final-year Computer Science and Engineering student focused on growing as a **Software Developer**. I enjoy taking an idea, understanding the problem behind it, and turning it into a functional digital solution.
 
-Currently focused on strengthening my software development skills while building practical web applications and exploring meaningful AI-powered solutions.
-
-**STATUS:** BUILDING & LEARNING  
-**PRIMARY PATH:** SOFTWARE DEVELOPMENT  
-**INTERESTS:** WEB • PYTHON • AI-POWERED APPLICATIONS
+My current focus is on **Python, web development, software development fundamentals, and AI-powered applications**.
 
 ---
 
-## 02 / CURRENTLY IN PROGRESS
+## ⚡ Currently Building
 
-- **BUILDING** — Practical projects from idea to implementation
-- **LEARNING** — Python and software development concepts
-- **EXPLORING** — AI integration in useful applications
-- **PREPARING** — For software development opportunities
+- 🛠️ Developing practical projects and strengthening my development skills
+- 🐍 Expanding my knowledge in Python and software development
+- 🤖 Exploring how AI can be integrated into useful applications
+- 🚀 Preparing for software development opportunities
 
 ---
 
-## 03 / THE BUILD BOARD
+## ✦ Featured Builds
 
-### ✦ Lumora
+### LUMORA
+
+<a href="https://github.com/Manasa03042004">
+  <img src="./assets/lumora-card.png" width="100%" alt="Lumora" />
+</a>
+
 **Wellness × Productivity**
 
 A digital experience built around the idea that productivity and well-being can work together rather than exist separately.
 
 `Web Application` · `Wellness` · `Productivity`
 
-### ✦ FemCare AI
-**Technology for accessible health support**
+---
 
-An AI-powered application exploring how technology can support more accessible and informative digital experiences around women's health.
+### FEMCARE AI
 
-`AI-Powered Application` · `Web Development`
+<a href="https://github.com/Manasa03042004">
+  <img src="./assets/femcare-ai-card.png" width="100%" alt="FemCare AI" />
+</a>
 
-### ✦ PathGuide
-**Career exploration with better direction**
+**AI × Accessible Digital Health Support**
 
-A career guidance platform designed to help students explore possible paths and make more informed decisions about their future.
+An AI-powered application exploring how technology can make health support more accessible, informative, and easier to navigate.
+
+`AI-Powered Application` · `Web Development` · `AI Integration`
+
+---
+
+### PATHGUIDE
+
+<a href="https://github.com/Manasa03042004">
+  <img src="./assets/pathguide-card.png" width="100%" alt="PathGuide" />
+</a>
+
+**Technology × Career Direction**
+
+A career guidance platform designed to help students explore career paths and make more informed decisions about their future.
 
 `Career Guidance` · `Web Application`
 
 ---
 
-## 04 / BEHIND THE BUILD
+## 🧩 The Way I Build
 
-**Lumora**  
-*What if productivity and well-being didn't have to be separate?*
-
-↓
-
-**FemCare AI**  
-*How can technology make digital health support more accessible?*
-
-↓
-
-**PathGuide**  
-*Can career exploration become less overwhelming and more structured?*
-
-Every project starts with a question. The goal is to turn that question into something useful.
-
----
-
-## 05 / MY DEVELOPER TOOLKIT
-
-### LANGUAGES
-
-![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
-
-### WEB
-
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=white)
-
-### WORKFLOW
-
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)
-
-### EXPLORING
-
-AI / ML · Problem Solving · Software Development
-
----
-
-## 06 / GROWTH LOG
-
-**2026**
-
-- Building and developing practical applications
-- Creating and publishing Lumora
-- Developing FemCare AI
-- Developing PathGuide
-- Strengthening software development fundamentals
-- Building a public developer portfolio
-
-> This section will grow with me.
-
----
-
-## 07 / PORTFOLIO
-
-### MY WORK, IN ONE PLACE
-
-A dedicated space for selected projects, the thinking behind them, and the journey of building them.
-
-**PORTFOLIO STATUS:** UNDER CONSTRUCTION 🚧
-
-`Coming soon ↗`
-
----
-
-## 08 / GITHUB PULSE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manasa03042004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa03042004&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
----
-
-## 09 / WHERE I'M GOING
-
-**FINAL-YEAR CSE STUDENT**  
-↓  
-**BUILD • LEARN • IMPROVE**  
-↓  
-**SOFTWARE DEVELOPER**
-
-I'm working toward becoming a developer who can understand real problems and build practical, thoughtful, and meaningful digital solutions.
-
----
-
-## 10 / LET'S CONNECT
-
-<div align="center">
-
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manasa_K_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasa-k-s-856b383ab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasavishwakarma032k4@gmail.com)
-
-<br>
-
-**BUILD • LEARN • IMPROVE • REPEAT**
-
-</div>
+```text
+IDEA
+  ↓
+UNDERSTAND THE PROBLEM
+  ↓
+DESIGN THE SOLUTION
+  ↓
+BUILD
+  ↓
+TEST & IMPROVE
+  ↓
+LEARN FROM THE PROCESS
+  ↓
+BUILD AGAIN
