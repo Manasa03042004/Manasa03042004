@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="./assets/github-hero.png" width="100%" alt="Manasa K S — Developer" />
+<img src="./assets/hero.png" width="100%" alt="Manasa K S — Developer" />
 
-<br>
+<br><br>
 
-# Manasa K S
+# MANASA K S
+### Aspiring Software Developer
 
-### Software Developer in Progress
+I enjoy turning ideas into practical web applications and exploring how technology can create meaningful impact.
+Currently focused on **building, learning, and growing**.
 
-Building practical web applications, exploring AI-powered solutions, and turning ideas into digital experiences.
+`Web Development` · `Python` · `AI-Powered Solutions` · `Problem Solving`
 
 <br>
 
@@ -23,80 +25,191 @@ Building practical web applications, exploring AI-powered solutions, and turning
 
 <br>
 
-## 👋 About Me
+## 01 / Currently in Progress
 
-I'm a final-year Computer Science and Engineering student focused on growing as a **Software Developer**. I enjoy taking an idea, understanding the problem behind it, and turning it into a functional digital solution.
-
-My current focus is on **Python, web development, software development fundamentals, and AI-powered applications**.
-
----
-
-## ⚡ Currently Building
-
-- 🛠️ Developing practical projects and strengthening my development skills
-- 🐍 Expanding my knowledge in Python and software development
-- 🤖 Exploring how AI can be integrated into useful applications
+- 🛠️ Building and improving my projects
+- 🐍 Strengthening Python and development skills
+- 🤖 Exploring AI/ML and real-world applications
 - 🚀 Preparing for software development opportunities
 
+> A little progress everyday adds up.
+
 ---
 
-## ✦ Featured Builds
+## 02 / The Build Board
 
-### LUMORA
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Manasa03042004">
-  <img src="./assets/lumora-card.png" width="100%" alt="Lumora" />
+<img src="./assets/lumora.png" width="100%" alt="Lumora" /><br><br>
+
+**🌿 Lumora**
+
+Wellness and productivity, brought into one experience.
+
+`Web App` `Wellness`
+
+[Code →](https://github.com/Manasa03042004)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="./assets/femcare-ai.png" width="100%" alt="FemCare AI" /><br><br>
+
+**💗 FemCare AI**
+
+AI-powered women's health application.
+
+`AI/ML` `HealthTech`
+
+[Code →](https://github.com/Manasa03042004)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="./assets/pathguide.png" width="100%" alt="PathGuide" /><br><br>
+
+**🧭 PathGuide**
+
+Career guidance platform for students.
+
+`Web App` `Career`
+
+[Code →](https://github.com/Manasa03042004)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / Behind the Build
+
+| Project | The question that started it |
+|---|---|
+| 🌿 **Lumora** | "What if productivity also made space for well-being?" |
+| 💗 **FemCare AI** | "How can AI make women's health support more accessible?" |
+| 🧭 **PathGuide** | "Can technology make career exploration less overwhelming?" |
+
+---
+
+## 04 / My Developer Toolkit
+
+<table>
+<tr>
+<td valign="top">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Web**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Exploring**
+
+![AI](https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-00A36C?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 / Growth Log
+
+<details>
+<summary><b>2026</b> — Building and publishing personal projects</summary>
+<br>
+
+- Built and published personal projects
+- Strengthening software development skills
+- Preparing for developer opportunities
+</details>
+
+<details>
+<summary><b>2025</b> — Internship & real-world projects</summary>
+<br>
+
+- Completed internship
+- Worked on real-world projects
+- Gained experience in web development
+</details>
+
+<details>
+<summary><b>2024</b> — Exploring new technologies</summary>
+<br>
+
+- Explored new technologies
+- Started building project ideas
+- Developed interest in AI and its applications
+</details>
+
+<details>
+<summary><b>2023 & before</b> — Building a foundation</summary>
+<br>
+
+- Built a strong foundation
+- Participated in technical and cultural events
+- Always curious, always learning
+</details>
+
+---
+
+## 06 / GitHub Pulse
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasa03042004&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa03042004&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa03042004&theme=dark&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 07 / Where I'm Going
+
+Currently focused on growing as a Software Developer and building practical, meaningful applications. Looking forward to contributing to impactful work, learning from real-world experiences, and creating technology that adds value.
+
+---
+
+## 08 / Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manasa-k-s-856b383ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Journey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:manasavishwakarma032k4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-**Wellness × Productivity**
+<br><br>
 
-A digital experience built around the idea that productivity and well-being can work together rather than exist separately.
+*Thank you for visiting! ✨*
 
-`Web Application` · `Wellness` · `Productivity`
-
----
-
-### FEMCARE AI
-
-<a href="https://github.com/Manasa03042004">
-  <img src="./assets/femcare-ai-card.png" width="100%" alt="FemCare AI" />
-</a>
-
-**AI × Accessible Digital Health Support**
-
-An AI-powered application exploring how technology can make health support more accessible, informative, and easier to navigate.
-
-`AI-Powered Application` · `Web Development` · `AI Integration`
-
----
-
-### PATHGUIDE
-
-<a href="https://github.com/Manasa03042004">
-  <img src="./assets/pathguide-card.png" width="100%" alt="PathGuide" />
-</a>
-
-**Technology × Career Direction**
-
-A career guidance platform designed to help students explore career paths and make more informed decisions about their future.
-
-`Career Guidance` · `Web Application`
-
----
-
-## 🧩 The Way I Build
-
-```text
-IDEA
-  ↓
-UNDERSTAND THE PROBLEM
-  ↓
-DESIGN THE SOLUTION
-  ↓
-BUILD
-  ↓
-TEST & IMPROVE
-  ↓
-LEARN FROM THE PROCESS
-  ↓
-BUILD AGAIN
+</div>
