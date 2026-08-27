@@ -14,6 +14,9 @@ Currently focused on **building, learning, and growing**.
 
 <br>
 
+<a href="https://manasa03042004.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-9B8CFB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/manasa-k-s-856b383ab/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -201,6 +204,9 @@ Currently focused on growing as a Software Developer and building practical, mea
 
 <div align="center">
 
+<a href="https://manasa03042004.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-9B8CFB?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/manasa-k-s-856b383ab/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Journey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
