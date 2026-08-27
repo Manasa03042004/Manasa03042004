@@ -14,7 +14,7 @@ Currently focused on **building, learning, and growing**.
 
 <br>
 
-<a href="https://manasa03042004.github.io/">
+<a href="https://manasa03042004.github.io/Manasa03042004/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-9B8CFB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/manasa-k-s-856b383ab/">
